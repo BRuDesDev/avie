@@ -1,0 +1,11 @@
+# requirments.py
+
+opencv-python
+torch
+torchvision
+geopy
+requests
+Pillow
+matplotlib
+ultralytics
+
